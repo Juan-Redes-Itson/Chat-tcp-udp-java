@@ -63,7 +63,7 @@ se te pedira que ingreses tu nombre para poder acceder al servidor.
 
 ### chat grupal
 ![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/7e7815986be4c1c098bb704688f29fe4a34c9c7b/chat%20grupal.png)
-###chat privado 
+### chat privado 
 ![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/51e6e19737fb6195db875fdde5b93096a372e374/privado%20conversacion%20p1.png)
 ### chat privado respuesta
 ![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/51e6e19737fb6195db875fdde5b93096a372e374/conversacion%20privada%202.png)
