@@ -68,4 +68,14 @@ se te pedira que ingreses tu nombre para poder acceder al servidor.
 ### chat privado respuesta
 ![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/51e6e19737fb6195db875fdde5b93096a372e374/conversacion%20privada%202.png)
 
+### Protocolo de comunicación
+los mensajes tienen el siguiente formato:
+> 
+[SERVIDOR] juan se unio al chat
+> 
+[USUARIOS] juan 
+> HOLA A TODOS
+> 
+[juan] : HOLA A TODOS
+> 
 
