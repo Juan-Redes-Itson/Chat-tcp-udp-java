@@ -58,6 +58,7 @@ se te pedira que ingreses tu nombre para poder acceder al servidor.
 - Historial de mensajes
 
 ### Capturas de pantalla
+![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/ebb456e3858f21ad14d3118aecc49e35119f6a4b/Ingreso%20de%20usuario%20.png)
 [![ingreso de usuario](a "ingreso de usuario")](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/2c321438fce59dc50e5f97d4b2b472f79bbb5646/Ingreso%20de%20usuario%20.png "ingreso de usuario")
 [![Chat Grupal](chat grupal "Chat Grupal")](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/7e7815986be4c1c098bb704688f29fe4a34c9c7b/chat%20grupal.png "Chat Grupal")
 [![Chat privado](chat privado "Chat privado")](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/51e6e19737fb6195db875fdde5b93096a372e374/privado%20conversacion%20p1.png "Chat privado")
