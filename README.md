@@ -77,5 +77,7 @@ los mensajes tienen el siguiente formato:
 > HOLA A TODOS
 > 
 [juan] : HOLA A TODOS
-> 
+>
+> # Licencia
+>- Proyecto académico -- ITSON - Redes - 2026
 
