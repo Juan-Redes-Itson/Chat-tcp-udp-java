@@ -57,7 +57,7 @@ se te pedira que ingreses tu nombre para poder acceder al servidor.
 - Desconexión verificada(exit)
 - Historial de mensajes
 
-### Capturas de pantalla
+# Capturas de pantalla
 ### Ingreso de usuario al servidor
 ![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/ebb456e3858f21ad14d3118aecc49e35119f6a4b/Ingreso%20de%20usuario%20.png)
 
