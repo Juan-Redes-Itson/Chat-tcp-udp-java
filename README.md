@@ -23,7 +23,7 @@ Este sistema implementa una arquitectura cliente y servidor donde un servidor ce
 - Maven
 
 # Estructura de proyecto
-![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/d238fe767ba47970b23160aa5f8794cae1f6b9f5/Diagrama%20de%20chat%20TCP_UDP%20.drawio%20(1).png)
+![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/ffe2b0e903ceaa5b951bc4499291e304259e465c/Diagrama%20de%20chat%20TCP_UDP%20.drawio%20(2).png)
 
 ### como ejecutar
 
