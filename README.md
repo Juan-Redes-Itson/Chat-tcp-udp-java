@@ -59,14 +59,14 @@ se te pedira que ingreses tu nombre para poder acceder al servidor.
 
 # Capturas de pantalla
 ### Ingreso de usuario al servidor
-![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/ebb456e3858f21ad14d3118aecc49e35119f6a4b/Ingreso%20de%20usuario%20.png)
+![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/886b4aaeb3b5a0b1d48653952aca4482fdc09654/Entrando%20al%20servidor.png)
 
 ### chat grupal
-![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/7e7815986be4c1c098bb704688f29fe4a34c9c7b/chat%20grupal.png)
+![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/f06fd1b1725daeb4e60193ecbd28f7288000f803/Conversacion%20publica.png)
 ### chat privado 
-![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/51e6e19737fb6195db875fdde5b93096a372e374/privado%20conversacion%20p1.png)
+![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/43940c9513aeae88b025d4f64021ec0be2c7d9fb/privada%20p1.png)
 ### chat privado respuesta
-![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/51e6e19737fb6195db875fdde5b93096a372e374/conversacion%20privada%202.png)
+![image alt](https://github.com/Juan-Redes-Itson/Chat-tcp-udp-java/blob/202be2612f425fabe5cf7528e06aae3412386e6b/privado%202.png)
 
 ### Protocolo de comunicación
 los mensajes tienen el siguiente formato:
