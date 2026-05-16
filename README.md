@@ -5,10 +5,10 @@ Realizacion de una aplicación de chat Client - Servidor desarrollada en el ento
 
 
 
-###descripcion
+### Descripcion
 Este sistema implementa una arquitectura cliente y servidor donde un servidor central gestiona las coneciones y retrasmite mensajes a los clientes que se esten conectados, se utilizan hilos independientes para un mejor manejo de cada cliente asi permitiendo varios usuarios se comuniquen simultáneamente sin restrincciones 
 
-###Integrantes
+### Integrantes
 | Nombre  | Matricula|
 | ------------- | ------------- |
 | Juan carlos valenzuela cabrera | 00000186288  |
@@ -25,18 +25,18 @@ Este sistema implementa una arquitectura cliente y servidor donde un servidor ce
 # Estructura de proyecto(falta por hacer)
 
 
-###como ejecutar
+### como ejecutar
 
 - Java JDK 17 o superior debe ser instalado
 - Terminal o GitBash
 
-####compilar el proyecto
+#### compilar el proyecto
 Javac -d bin C:\Users\JoshG\Documents\ChatTCPUDP\src\main\java\Clientes\ClientesTCP.java
 Javac -d bin C:\Users\JoshG\Documents\ChatTCPUDP\src\main\java\Clientes\ClientesUDP.java
 Javac -d bin C:\Users\JoshG\Documents\ChatTCPUDP\src\main\java\Servidores\ServidorTCP.java
 Javac -d bin C:\Users\JoshG\Documents\ChatTCPUDP\src\main\java\Servidores\ServidorUDP.java
 
-###Iniciar servidor
+### Iniciar servidor
 
 java -cp bin Servidores.TCPServer
 java -cp bin Servidores.UDPServer
